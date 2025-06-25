@@ -7,4 +7,5 @@ Finally with any stacked layers, computational cost increases with each addition
 2. Can you design a learnable positional encoding method using pytorch? (Create dummy dataset)
 The solution is in interview_encoding.
 Link to the walkthrough of the solution.
+
 [![Walkthrough](https://img.youtube.com/vi/pNyk34SjrpA/0.jpg)](https://www.youtube.com/watch?v=pNyk34SjrpA)
