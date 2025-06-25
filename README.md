@@ -5,6 +5,7 @@ One problem with stacking layers after positional encoding is that the positiona
 Finally with any stacked layers, computational cost increases with each additional layer, and depending on the sequence being encoded, some of these additional layers may only increase the computation cost without improving the encoding; in the worst case, the depth of the model could cause it to overfit.
 
 2. Can you design a learnable positional encoding method using pytorch? (Create dummy dataset)
+
 The solution is in interview_encoding.
 Link to the walkthrough of the solution.
 
